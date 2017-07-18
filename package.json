@@ -1,0 +1,11 @@
+{
+  "name": "react-redux-basic",
+  "version": "1.0.0",
+  "description": "set up reatc and redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranita",
+  "license": "ISC"
+}
